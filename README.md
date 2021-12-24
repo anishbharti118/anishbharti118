@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Kumar Bharti</h1>
-<h3 align="center">Android App Developer</h3>
+<h3 align="center">Data Science</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishbharti118" alt="anishbharti118" /></a> </p>
 
