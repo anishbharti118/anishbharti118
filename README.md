@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishbharti118" alt="anishbharti118" /></a> </p>
 
-- 🌱 I’m currently learning **Android MultiScreen Development**
+- 🌱 I’m currently learning **Data Analysis and Data Science**
 
 - 📫 How to reach me **anishbharti118@gmail.com**
 
